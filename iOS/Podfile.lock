@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.4.1)
+  - GoogleWebRTC (1.1.31999)
+  - SnapKit (5.0.1)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - GoogleWebRTC
+  - SnapKit
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - GoogleWebRTC
+    - SnapKit
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  GoogleWebRTC: b39a78c4f5cc6b0323415b9233db03a2faa7b0f0
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 82c9efcfc261704b8a9c746ce642f16a937d4dce
+
+COCOAPODS: 1.10.1

@@ -1,5 +1,5 @@
 
-This is an iOS and Android native project that demonstrates how to use WEBRTC and SRS for RTC transport.
+This is an iOS and Android native project that demonstrates how to use WEBRTC and SRS for RTC transport.  
 
 Usage:
 mkdir build

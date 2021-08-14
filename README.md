@@ -1,4 +1,3 @@
-
 This is an iOS and Android native project that demonstrates how to use WEBRTC and SRS for RTC transport.  
 
 Usage:  
@@ -114,7 +113,6 @@ rtc_server {
     # The * means retrieving server IP automatically, from all network interfaces,  
     # @see https://github.com/ossrs/srs/issues/307#issuecomment-599028124  
     candidate       $CANDIDATE;  
-    
     # candidate       192.168.3.231;  
 }  
 

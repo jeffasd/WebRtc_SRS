@@ -1,18 +1,3 @@
-
-
-
-
-
-<style type="text/css">
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Menlo; color: #e1e2e7; background-color: #1f2029; min-height: 15.0px}
-p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 16.0px 'Helvetica Neue'; color: #e1e2e7; background-color: #1f2029}
-p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 16.0px 'Helvetica Neue'; color: #e1e2e7; background-color: #1f2029; min-height: 18.0px}
-p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Menlo; color: #aa0d91; background-color: #1f2029}
-span.s1 {color: #55747c}
-span.s2 {font: 16.0px 'Helvetica Neue'; color: #e1e2e7}
-</style>
-
-
 <p><br></p>
 <p>This is an iOS and Android native project that demonstrates how to use WEBRTC and SRS for RTC transport.</p>
 <p><br></p>
